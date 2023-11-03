@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,bash,bootstrap,c,cpp,cloudflare,discord,docker,eclipse,express,git,github,go,gradle,kubernetes,idea,java,jenkins,jquery,kotlin,linux,md,matlab,maven,mysql,nginx,nodejs,ps,postgres,postman,py,rabbitmq,redis,spring,sqlite,stackoverflow,selenium,twitter,ts,vue,webpack,vim)](https://skillicons.dev)
 
-[![ilpvc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilpvc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilpvc&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
